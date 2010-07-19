@@ -47,7 +47,29 @@ div, li, img, p {
 }
 
 /* slide window style */
-
+.slide-window {
+	position: relative;
+	height: 615px;
+}
+.slide-image {
+	height: 615px;
+}
+.slide-h3-caption {
+	position: absolute;
+	bottom: 50%;
+	left: 10%;
+	font-size: 300%;
+	color: #f7f2f2;
+	text-shadow: 2px 2px 2px #615d5d;
+}
+.slide-detail {
+	position: absolute;
+	bottom: 40%;
+	left: 10%;
+	font-size: 150%;
+	color: #f7f2f2;
+	text-shadow: 2px 2px 2px #615d5d;
+}
 
 
 /* left sidebar style */
