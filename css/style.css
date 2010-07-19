@@ -102,6 +102,31 @@ div, li, img, p {
 	padding: 5px;
 	vertical-align: top;
 }
-
+.upper-content {
+	width: 100%;
+	vertical-align: top;
+}
+.mid-left-content {
+	display: inline-block;
+	width: 27%;
+	padding: 10px;
+	vertical-align: top;
+}
+.mid-central-content {
+	display: inline-block;
+	width: 38%;	
+	padding: 10px;
+	vertical-align: top;
+}
+.mid-right-content {
+	display: inline-block;
+	width: 25%;
+	padding: 10px;
+	vertical-align: top;
+}
+.lower-content {
+	width: 100%;
+	vertical-align: top;
+}
 /* footer style */
 
