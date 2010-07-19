@@ -71,6 +71,11 @@ div, li, img, p {
 	text-shadow: 2px 2px 2px #615d5d;
 }
 
+/* main style */
+.main {
+	margin: 5%;
+	width: 90%;
+}
 
 /* left sidebar style */
 .left-sidebar {
