@@ -82,6 +82,7 @@ div, li, img, p {
 	display: inline-block;
 	width: 20%;
 	padding: 5px;
+	vertical-align: top;
 }
 
 
@@ -90,6 +91,7 @@ div, li, img, p {
 	display: inline-block;
 	width: 10%;
 	padding: 5px;
+	vertical-align: top;
 }
 
 /* content style */
@@ -97,6 +99,7 @@ div, li, img, p {
 	display: inline-block;
 	width: 65%;
 	padding: 5px;
+	vertical-align: top;
 }
 
 /* footer style */
