@@ -130,5 +130,29 @@ div, li, img, p {
 	width: 100%;
 	vertical-align: top;
 }
+
+
 /* footer style */
+.footer {
+	width: 100%;
+	background-color: #615d5d;
+	color: #f7f2f2;
+	margin: 0;
+	padding: 10px 10%;
+}
+.left-footer-content {
+	display: inline-block;
+	width: 35%;
+	vertical-align: top;
+}
+.mid-footer-content {
+	display: inline-block;
+	width: 20%;
+	vertical-align: top;
+}
+.right-footer-content {
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+}
 
