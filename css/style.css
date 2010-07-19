@@ -1,0 +1,11 @@
+/*styles for document*/
+
+html, body {
+	width: 100%;
+	font-family: arial;
+	color: grey; #615d5d;
+}
+
+div, li, img, p {
+	display: block;
+}
