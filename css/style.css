@@ -11,10 +11,12 @@ html, body {
 	width: 100%;
 	font-family: arial;
 	color: grey; #615d5d;
+	overflow-x: hidden;
 }
 
 div, li, img, p {
 	display: block;
+	overflow: hidden;
 }
 
 
