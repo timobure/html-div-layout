@@ -1,5 +1,12 @@
 /*styles for document*/
 
+/* 
+	despite the ability to define some styles in one class and share them,
+	we will define styles for each section independently so as to make it easier
+	to understand what happens where and how
+*/
+
+/*default style */
 html, body {
 	width: 100%;
 	font-family: arial;
@@ -9,3 +16,22 @@ html, body {
 div, li, img, p {
 	display: block;
 }
+
+
+/* menu style */
+
+
+/* slide window style */
+
+
+/* left sidebar style */
+
+
+/* right sidebar style*/
+
+
+/* content style */
+
+
+/* footer style */
+
