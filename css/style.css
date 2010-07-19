@@ -73,13 +73,26 @@ div, li, img, p {
 
 
 /* left sidebar style */
+.left-sidebar {
+	display: inline-block;
+	width: 20%;
+	padding: 5px;
+}
 
 
 /* right sidebar style*/
-
+.right-sidebar {
+	display: inline-block;
+	width: 10%;
+	padding: 5px;
+}
 
 /* content style */
-
+.content {
+	display: inline-block;
+	width: 65%;
+	padding: 5px;
+}
 
 /* footer style */
 
