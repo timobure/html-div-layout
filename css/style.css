@@ -17,6 +17,7 @@ html, body {
 div, li, img, p {
 	display: block;
 	overflow: hidden;
+	text-align: justify;
 }
 
 
